@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pokedex>
+	<Pokemon id="001">
+		<nombre>Bulbasaur</nombre>
+		<tipos>
+			<tipo>Planta</tipo>
+			<tipo>Veneno</tipo>
+		</tipos>
+		<evoluciones>
+			<evolucion id="002">Ivysaur</evolucion>
+			<evolucion id="003">Venusaur</evolucion>
+		</evoluciones>
+		<imagen>bulbasaur.jpg</imagen>
+	</Pokemon>
+	<Pokemon id="004">
+		<nombre>Charmander</nombre>
+		<tipos>
+			<tipo>Fuego</tipo>
+		</tipos>
+		<evoluciones>
+			<evolucion id="005">Charmeleon</evolucion>
+			<evolucion id="006">Charizard</evolucion>
+		</evoluciones>
+	</Pokemon>
+	<Pokemon id="007">
+		<nombre>Squirtle</nombre>
+		<tipos>
+			<tipo>Agua</tipo>
+		</tipos>
+		<evoluciones>
+			<evolucion id="008">Wartortle</evolucion>
+			<evolucion id="009">Blastoise</evolucion>
+		</evoluciones>
+	</Pokemon>
+	<Pokemon id="025">
+		<nombre>Pikachu</nombre>
+		<tipos>
+			<tipo>Eléctrico</tipo>
+		</tipos>
+		<evoluciones>
+			<evolucion id="026">Raichu</evolucion>
+		</evoluciones>
+	</Pokemon>
+</Pokedex>

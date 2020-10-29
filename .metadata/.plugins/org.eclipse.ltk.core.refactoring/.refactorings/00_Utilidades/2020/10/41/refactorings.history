@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;IntroduceDatos.java&apos; to &apos;04_AccesoAleatorio/src/utilidades&apos;&#x0D;&#x0A;- Original project: &apos;00_Utilidades&apos;&#x0D;&#x0A;- Destination element: &apos;04_AccesoAleatorio/src/utilidades&apos;&#x0D;&#x0A;- Original element: &apos;utilidades.IntroduceDatos.java&apos;" description="Copy compilation unit" destination="=04_AccesoAleatorio/src&lt;utilidades" element1="/src&lt;utilidades{IntroduceDatos.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1602347279713" units="1" version="1.0"/>
+</session>

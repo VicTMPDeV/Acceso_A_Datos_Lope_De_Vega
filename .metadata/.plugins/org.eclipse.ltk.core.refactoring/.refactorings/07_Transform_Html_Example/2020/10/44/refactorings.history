@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TransformAlumnos.java&apos; to &apos;07_Pokedex_Transform/src/transform&apos;&#x0D;&#x0A;- Original project: &apos;07_Transform_Html_Example&apos;&#x0D;&#x0A;- Destination element: &apos;07_Pokedex_Transform/src/transform&apos;&#x0D;&#x0A;- Original element: &apos;transform.TransformAlumnos.java&apos;" description="Copy compilation unit" destination="=07_Pokedex_Transform/src&lt;transform" element1="/src&lt;transform{TransformAlumnos.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1603784904202" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode/&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<item key="ShowDerived" value="false"/>
+		<item key="FilterByLocation" value="false"/>
+		<item key="WorkingSet" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="669"/>
+			<item key="DIALOG_Y_ORIGIN" value="191"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="BUILD_NOW" value="true"/>
+		<item key="BUILD_ALL" value="true"/>
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="662"/>
+		<item key="DIALOG_HEIGHT" value="529"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\msi\Desktop\05_Morales_Perez_Victor_Tarea5_ACCDAT\Ejercicio05Tarjetas"/>
+			<item value="C:\Users\msi\Desktop\PROGRAMACION_CLASES_ACCESO_A_DATOS\ACCESO_A_DATOS\WORKSPACE_CLASE\05_JavaDOM"/>
+			<item value="C:\Users\msi\Desktop\JAXBLectura-master"/>
+			<item value="C:\Users\msi\Desktop\04_JAVA+DOM\02_TAREAS\05_Morales_Perez_Victor_Tarea5_ACCDAT\Ejercicio05Tarjetas"/>
+			<item value="C:\Users\msi\Desktop\04_JAVA+DOM\02_TAREAS\05_Morales_Perez_Victor_Tarea5_ACCDAT"/>
+			<item value="C:\Users\msi\Desktop\PROGRAMACION_CLASES_ACCESO_A_DATOS\ACCESO_A_DATOS\VICTOR\ECLIPSE\WORKSPACE\ACCESO_A_DATOS\StreamsReaderWriter"/>
+			<item value="C:\Users\msi\Desktop\PROGRAMACION_CLASES_ACCESO_A_DATOS\ACCESO_A_DATOS\VICTOR\ECLIPSE\WORKSPACE\ACCESO_A_DATOS"/>
+			<item value="C:\Users\msi\Desktop\PROGRAMACION_CLASES_ACCESO_A_DATOS\ACCESO_A_DATOS\VICTOR\ECLIPSE\WORKSPACE\ACCESO_A_DATOS\Ficheros"/>
+			<item value="C:\Users\msi\Desktop\PROGRAMACION_CLASES_ACCESO_A_DATOS\ACCESO_A_DATOS\VICTOR\ECLIPSE\WORKSPACE\ACCESO_A_DATOS\ActividadesTema1"/>
+			<item value="C:\Users\msi\Desktop\PROGRAMACION CLASES ACCESO A DATOS\ACCESO A DATOS\VICTOR\ECLIPSE\WORKSPACE\ACCESO_A_DATOS\ActividadesTema1"/>
+			<item value="C:\Users\msi\Desktop\WallaSpring-master"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="514"/>
+		<item key="DIALOG_Y_ORIGIN" value="34"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="580"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

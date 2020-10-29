@@ -1,0 +1,12 @@
+1603364388775	Rename package 'jaxb'
+1603365654994	Rename type 'Libreria'
+1603365675112	Rename type 'Cerveceria'
+1603365700725	Rename field 'libros'
+1603365913200	Rename field 'isbn'
+1603365935898	Rename field 'titulo'
+1603365943095	Rename field 'autor'
+1603366233762	Rename local variable 'libreria'
+1603366408905	Rename package 'lecturajaxb'
+1603366430359	Rename type 'Libro'
+1603367682573	Delete element
+1603367813652	Delete element
